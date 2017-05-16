@@ -1,0 +1,17 @@
+{
+    "name": "asapcondensed-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Omnibus-Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/asapcondensed-bower.git"
+    },
+    "description": "Asap Condensed font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
